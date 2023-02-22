@@ -31,18 +31,10 @@ const HomeContainer = () => {
         </p>
 
         <p className="text-base text-textColor text-center md:text-left md:w-[80%]">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima velit
-          eaque fugit distinctio est nam voluptatum architecto, porro iusto
-          deserunt recusandae ipsa minus eos sunt, dolores illo repellat facere
-          suscipit!
+          The Best Place to order food wherever you are in Kosovo. Order now and get your product delivered to your home.
         </p>
 
-        <button
-          type="button"
-          className="bg-gradient-to-br from-orange-400 to-orange-500 w-full md:w-auto px-4 py-2  rounded-lg hover:shadow-lg transition-all ease-in-out duration-100"
-        >
-          Order Now
-        </button>
+        
       </div>
       <div className="py-2 flex-1 flex items-center relative">
         <img
